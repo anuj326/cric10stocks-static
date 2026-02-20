@@ -1,4 +1,4 @@
-import IplTeam from "../assests/team-group.png";
+// import IplTeam from "../assests/team-group.png";
 const About = () => {
     return (
         <div className="container py-5">

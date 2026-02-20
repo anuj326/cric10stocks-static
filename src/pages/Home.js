@@ -1,4 +1,4 @@
-import Graph from "../assests/laptop-graph.jpg"
+// import Graph from "../assests/laptop-graph.jpg"
 
 const Home = () => {
     return (
