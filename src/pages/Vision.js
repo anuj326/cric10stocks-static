@@ -1,6 +1,15 @@
+import SEO from "../components/SEO";
+
 const Vision = () => {
     return (
         <div className="container py-5">
+             <SEO
+        title="Our Vision | Cric10Stocks Financial Literacy"
+        description="Our vision is to make financial literacy accessible by simplifying stock market concepts through engaging fantasy simulations."
+        keywords="financial literacy, stock education vision, cric10stocks mission"
+        url="https://www.cric10stocks.com/vision"
+      />
+      
             <div className="row justify-content-center text-center">
                 <div className="col-md-8">
                     <h2 className="fw-bold mb-3">Our Vision</h2>

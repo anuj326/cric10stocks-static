@@ -1,8 +1,15 @@
 // import Graph from "../assests/laptop-graph.jpg"
+import SEO from "../components/SEO";
 
 const Home = () => {
     return (
         <div className="section fade-in">
+             <SEO
+        title="Cric10Stocks | Fantasy Stock Market Learning Platform"
+        description="Cric10Stocks is an educational fantasy stock platform that helps users understand stock market concepts using cricket-inspired simulations."
+        keywords="fantasy stocks, stock market learning, cricket fantasy stocks, financial education"
+        url="https://www.cric10stocks.com/"
+      />
             <div className="container text-center">
                 <h1 className="fw-bold mb-3">
                     Fantasy Meets Stock Market Learning

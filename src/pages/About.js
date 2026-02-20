@@ -1,7 +1,16 @@
 // import IplTeam from "../assests/team-group.png";
+import SEO from "../components/SEO";
+
 const About = () => {
     return (
         <div className="container py-5">
+             <SEO
+        title="About Cric10Stocks | Learn Stocks Through Fantasy"
+        description="Learn about Cric10Stocks and our mission to simplify stock market education using fantasy sports concepts."
+        keywords="about cric10stocks, fantasy stock education, stock learning platform"
+        url="https://www.cric10stocks.com/about"
+      />
+
             <div className="row justify-content-center">
                 <div className="col-md-8">
                     <h2 className="fw-bold mb-3">About Cric10Stocks</h2>

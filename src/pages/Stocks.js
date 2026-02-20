@@ -1,6 +1,15 @@
+import SEO from "../components/SEO";
+
 const Stocks = () => {
   return (
     <div className="container py-5">
+        <SEO
+        title="Fantasy Stocks | Cric10Stocks Educational Platform"
+        description="Explore fantasy stocks inspired by cricket teams and learn how stock values react to demand and performance."
+        keywords="fantasy stocks, cricket stocks, stock simulation learning"
+        url="https://www.cric10stocks.com/stocks"
+      />
+      
       <div className="row justify-content-center">
         <div className="col-md-8">
           <h2 className="fw-bold mb-4">Stocks Overview</h2>
