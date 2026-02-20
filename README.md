@@ -1,0 +1,1 @@
+# cric10stocks
