@@ -40,7 +40,7 @@ const Home = () => {
                     <div className="col-md-6">
                         <div className="card h-100">
                             <div>
-                                <img src={"https://png.pngtree.com/recommend-works/png-clipart/20241012/ourmid/pngtree-green-graph-moving-up-chart-stock-market-transparent-png-image_14078212.png"} alt="Graph image" />
+                                <img src={"https://png.pngtree.com/recommend-works/png-clipart/20241012/ourmid/pngtree-green-graph-moving-up-chart-stock-market-transparent-png-image_14078212.png"} alt="Graph" />
                             </div>
                         </div>
                     </div>
